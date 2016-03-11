@@ -1,0 +1,552 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"last",
+				"lastGarageOpening"
+			],
+			[
+				"ana",
+				"analogInput"
+			],
+			[
+				"Cu",
+				"currentValue"
+			],
+			[
+				"rea",
+				"readAnalog"
+			],
+			[
+				"cal",
+				"numOfCalRead"
+			],
+			[
+				"current",
+				"currentValue"
+			],
+			[
+				"time",
+				"timeDelayMs"
+			],
+			[
+				"Co",
+				"CoSensor"
+			],
+			[
+				"to",
+				"toLocaleTimeString"
+			],
+			[
+				"par",
+				"parse"
+			],
+			[
+				"la",
+				"lastReadingIdTmp"
+			],
+			[
+				"return",
+				"returnData"
+			],
+			[
+				"reading",
+				"reading_Id"
+			],
+			[
+				"retur",
+				"returnData"
+			],
+			[
+				"data",
+				"data"
+			],
+			[
+				"length",
+				"length-1"
+			],
+			[
+				"day",
+				"day"
+			],
+			[
+				"conn",
+				"Connection"
+			],
+			[
+				"Con",
+				"Connection"
+			],
+			[
+				"m",
+				"Mysql"
+			],
+			[
+				"mysql",
+				"mysql"
+			],
+			[
+				"M",
+				"Mysql"
+			],
+			[
+				"Sq",
+				"SQLException"
+			],
+			[
+				"curr",
+				"currentMean"
+			],
+			[
+				"cu",
+				"currentTime"
+			],
+			[
+				"cure",
+				"currentMean"
+			],
+			[
+				"re",
+				"reading"
+			],
+			[
+				"Mean",
+				"meanVal"
+			],
+			[
+				"pr",
+				"println"
+			],
+			[
+				"mean",
+				"meanVal"
+			],
+			[
+				"escap",
+				"escapeBool"
+			],
+			[
+				"R",
+				"readingSelector"
+			],
+			[
+				"esa",
+				"escapeBool"
+			],
+			[
+				"pu",
+				"public"
+			],
+			[
+				"curre",
+				"currentTime"
+			],
+			[
+				"co",
+				"coReadings"
+			],
+			[
+				"dig",
+				"digitalInput"
+			],
+			[
+				"digitalInp",
+				"DigitalInput"
+			],
+			[
+				"di",
+				"digitalSensor"
+			],
+			[
+				"Ana",
+				"AnalogInput"
+			],
+			[
+				"ass",
+				"assignPins"
+			],
+			[
+				"lo",
+				"loginQuery"
+			],
+			[
+				"is",
+				"isset"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"new",
+				"newUrl"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"e",
+				"echo	echo \"…\""
+			],
+			[
+				"session",
+				"session_start"
+			],
+			[
+				"auth",
+				"authenticate"
+			],
+			[
+				"_",
+				"_SESSION"
+			],
+			[
+				"log",
+				"logout"
+			],
+			[
+				"logi",
+				"login_form"
+			],
+			[
+				"login",
+				"login"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"mysqli",
+				"mysqli_execute"
+			],
+			[
+				"Pass",
+				"password"
+			],
+			[
+				"pa",
+				"password"
+			],
+			[
+				"use",
+				"username"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"user",
+				"Username"
+			],
+			[
+				"local",
+				"localhost"
+			],
+			[
+				"u",
+				"ul	Tag"
+			],
+			[
+				"settin",
+				"settingInt"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 980.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 1000.0
+	},
+	"console":
+	{
+		"height": 290.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '2915d1851351e5ee549c20394736b442' + '8bc59f460fa1548d1514676163dafc88'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/David/Downloads/Coding/BeagleBone/Gradle",
+		"/C/Users/David/Downloads/Coding/BeagleBone/Web Interface",
+		"/C/Users/David/Downloads/Coding/BeagleBone/Web Interface/js"
+	],
+	"file_history":
+	[
+		"/C/Users/David/Downloads/Coding/BeagleBone/Gradle/Opener.java",
+		"/C/Users/David/Downloads/Coding/BeagleBone/Web Interface/sftp-config.json",
+		"/C/Users/David/Downloads/Coding/BeagleBone/Gradle/Mysql.java",
+		"/C/Users/David/Downloads/Coding/BeagleBone/Gradle/GarageDoor.java",
+		"/C/Users/David/Downloads/Coding/BeagleBone/Gradle/DoorSensor.java",
+		"/C/Users/David/Downloads/Coding/BeagleBone/Gradle/CoSensor.java",
+		"/C/Users/David/Downloads/Coding/BeagleBone/Gradle/CoCalc.java",
+		"/C/Users/David/Downloads/Coding/BeagleBone/Gradle/RateAlgo.java",
+		"/C/Users/David/Downloads/Coding/BeagleBone/Gradle/Interval.java",
+		"/C/Users/David/Downloads/Coding/BeagleBone/Web Interface/js/data.js",
+		"/C/Users/David/Downloads/Coding/BeagleBone/Web Interface/data.js",
+		"/C/xampp/htdocs/BeagleBone/Web Interface/index.php",
+		"/C/xampp/htdocs/BeagleBone/Gradle/DoorSensor.java",
+		"/C/xampp/htdocs/BeagleBone/Web Interface/update.php",
+		"/C/xampp/htdocs/BeagleBone/Gradle/Opener.java",
+		"/C/xampp/htdocs/BeagleBone/Gradle/CoSensor.java",
+		"/C/xampp/htdocs/BeagleBone/Web Interface/values.php",
+		"/C/xampp/htdocs/BeagleBone/Web Interface/data.js",
+		"/C/xampp/htdocs/BeagleBone/Gradle/CoCalc.java",
+		"/C/xampp/htdocs/BeagleBone/Web Interface/sftp-config.json",
+		"/C/xampp/htdocs/BeagleBone/Gradle/sftp-config.json",
+		"/C/xampp/htdocs/BeagleBone/Web Interface/date.js",
+		"/C/Users/David/Downloads/date.js",
+		"/C/xampp/htdocs/BeagleBone/Gradle/Interval.java",
+		"/C/xampp/htdocs/BeagleBone/Gradle/GarageDoor.java",
+		"/C/xampp/htdocs/BeagleBone/Gradle/Mysql.java",
+		"/C/xampp/htdocs/BeagleBone/Gradle/sftp-config-alt.json",
+		"/C/xampp/htdocs/BeagleBoneBackup/sftp-config.json",
+		"/C/xampp/htdocs/BeagleBone/sftp-config.json",
+		"/C/Users/David/Downloads/test.php",
+		"/C/xampp/htdocs/BeagleBone/sftp-config-alt2.json",
+		"/C/xampp/htdocs/BeagleBone/sftp-config-alt.json",
+		"/C/xampp/htdocs/BeagleBone/Garage_Door/CoSensor.java",
+		"/C/xampp/htdocs/BeagleBone/Garage_Door/CoCalc.java",
+		"/C/xampp/htdocs/BeagleBone/Garage_Door/Interval.java",
+		"/C/xampp/htdocs/BeagleBone/Garage_Door/GarageDoor.java",
+		"/C/xampp/htdocs/BeagleBone/.npmrc",
+		"/C/xampp/htdocs/BeagleBone/java",
+		"/C/xampp/htdocs/BlincoeFamilyDentistry/sftp-config.json",
+		"/C/Users/David/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/BeagleBone",
+		"/C/Users/David/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/BlincoeDentistry",
+		"/C/xampp/htdocs/BlincoeFamilyDentistry/dental/index.html",
+		"/C/xampp/htdocs/Waites/Main_PHP/Main.php",
+		"/C/xampp/htdocs/Waites/Main_PHP/class.main.php",
+		"/C/xampp/htdocs/BlincoeFamilyDentistry/index.html",
+		"/C/xampp/htdocs/BlincoeFamilyDentistry/dental/js/smoothscroll.js",
+		"/C/users/david/appdata/local/temp/sublime-sftp-browse-1442614194/BlincoeDentistry/var/www/html/dental/index.html",
+		"/C/xampp/htdocs/AlienInvasion/AlienInvasion/engine.js",
+		"/C/xampp/htdocs/AlienInvasion/AlienInvasion/game.js",
+		"/C/xampp/htdocs/Waites/Main_PHP/class.main1.php",
+		"/C/xampp/htdocs/Admin/gebo-admin-3.tzdthemes.com/js/sha1.js",
+		"/C/xampp/htdocs/Admin/gebo-admin-3.tzdthemes.com/Login/login.php",
+		"/C/Users/David/Downloads/php-login-advanced-master/classes/Login.php",
+		"/C/Users/David/Downloads/php-login-advanced-master/config/config.php",
+		"/C/Users/David/Downloads/php-login-advanced-master/index.php",
+		"/C/xampp/htdocs/Admin/gebo-admin-3.tzdthemes.com/js/mysql.js",
+		"/C/xampp/htdocs/Admin/gebo-admin-3.tzdthemes.com/js/pages/gebo_dashboard.js",
+		"/C/xampp/htdocs/Admin/gebo-admin-3.tzdthemes.com/lib/validation/jquery.validate.js",
+		"/C/xampp/htdocs/Admin/gebo-admin-3.tzdthemes.com/dashboard.html",
+		"/C/xampp/htdocs/Admin/gebo-admin-3.tzdthemes.com/login.html",
+		"/C/xampp/htdocs/Admin/gebo-admin-3.tzdthemes.com/index.html",
+		"/C/xampp/htdocs/Admin/gebo-admin-3.tzdthemes.com/js/jquery.actual.min.js",
+		"/C/xampp/htdocs/multi/css/bootstrap.min.css",
+		"/C/xampp/htdocs/multi/service1.html",
+		"/C/xampp/htdocs/multi/js/bootstrap.min.js",
+		"/C/xampp/htdocs/multi/index.html",
+		"/C/Users/David/Downloads/Alien/www/index.html",
+		"/C/xampp/htdocs/AlienInvasion/engine.js",
+		"/C/xampp/htdocs/AlienInvasion/game.js",
+		"/C/xampp/htdocs/AlienInvasion/sprites.png",
+		"/C/xampp/htdocs/AlienInvasion/base.css",
+		"/C/xampp/htdocs/AlienInvasion/index.html",
+		"/C/Users/David/AppData/Roaming/Sublime Text 3/Packages/Default/Default (Windows).sublime-keymap",
+		"/C/xampp/htdocs/Waites/mysql/class.main1.php",
+		"/C/xampp/htdocs/Waites/mysql/class.main.php"
+	],
+	"find":
+	{
+		"height": 80.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"readingSe",
+			"WHERE",
+			"z",
+			"roundbe",
+			"tap",
+			"jquer",
+			"name",
+			"newUrl",
+			".dropdown-menu>li>a",
+			"logout",
+			"nav navbar",
+			"dash",
+			"filter-online",
+			"search",
+			"980",
+			"@media",
+			"980",
+			"toTop",
+			"sidebar",
+			"row",
+			"post",
+			"script",
+			"post",
+			"element",
+			"highlight",
+			"validate",
+			"script",
+			"about",
+			"navbar",
+			"header",
+			"latLng",
+			"google",
+			"sendemail",
+			"script"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 44.0
+	},
+	"input":
+	{
+		"height": 63.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 230.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 230.0
+	},
+	"pinned_build_system": "Packages/Java/JavaC.sublime-build",
+	"project": "Garge Door.sublime-project",
+	"replace":
+	{
+		"height": 88.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ini",
+				"C:\\xampp\\htdocs\\AlienInvasion\\engine.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 1250.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\xampp\\htdocs\\AlienInvasion\\index.sublime-workspace"
+			]
+		],
+		"width": 950.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 615.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
